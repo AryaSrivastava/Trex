@@ -1,2 +1,2 @@
-# Trex
-chrome Trex game created by using p5.js
+# trex
+Chrome's trex game created using p5.play
